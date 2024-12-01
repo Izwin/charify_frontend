@@ -1,16 +1,19 @@
-# charify_front
+# Charify
 
-A new Flutter project.
+**Charify** is a charity fundraising application built with Flutter, designed to simplify donations for users. The app features Google authentication via Firebase, seamless payment processing using Stripe, and a clean, user-friendly interface.
 
-## Getting Started
+> **Note**: Firebase has been removed from this project to enhance security and privacy. The project now does not rely on Firebase for backend services.
 
-This project is a starting point for a Flutter application.
+This application utilizes the [Charify Backend](https://github.com/Izwin/charify_backend) for its backend services.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is intended for educational purposes only. You may use, modify, and distribute it, but **do not use it for commercial purposes**.
+
+## 📄 Contact
+
+If you have any questions, feel free to reach out to me:
+
+- [Email](mailto:halilovrauf268@gmail.com)
+- [GitHub Profile](https://github.com/Izwin)
